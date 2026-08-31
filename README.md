@@ -21,3 +21,11 @@ Dicionário de dados: Carga Verificada do ONS
 Neste notebook será utilizada inicialmente a área SP — São Paulo, no período de 01/08/2025 a 07/08/2025.
 
 Os campos usados na análise seguem a estrutura da Carga Verificada do ONS: cod_areacarga, dat_referencia, din_referenciautc, val_cargaglobal e demais componentes disponibilizados pela API.
+
+INTEGRANTES:
+
+Bruno Menezes Monegatto -  RM570311
+Fabiana Yumi Rodrigues Nakagawa - RM571249
+Iago Neiva Gorrão - RM 570234
+João Pedro Amorim Albuquerque - RM 573342
+Kayky Araujo Silva - RM569535
